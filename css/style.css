@@ -1,7 +1,27 @@
+title {
+    color:black;
+    font-family: 'Creepster', serif;
+}
+button{
+    border: none;
+    border-color: maroon;
+    color:magenta;
+    background:black;
+    font-family: 'creepster', serif;
+    display: ruby-base;
+    text-align: left;
+    text-shadow: 1px 1px 1px rgb(46, 0, 0);
+    font-size: 24px;
+}
 h1 {
-    color:teal
+    color:darkturquoise;
+    font-family: 'creepster', serif;
+    font-size: 69px;
+    text-shadow: 2px 2px 2px rgb(46,0,0);
  }
 body {
     background: black;
-    color:teal;
+    color:darkturquoise;
+    font-family: 'Creepster', serif;
+    text-shadow: 1px 1px 1px rgb(46,0,0);
  }
